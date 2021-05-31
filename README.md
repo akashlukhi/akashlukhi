@@ -5,7 +5,7 @@
 
 
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashlukhi&show_icons=true&theme=dark)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashlukhi&show_icons=true&theme=tokyonight)
 
 <!--
 ### Connect with me:
