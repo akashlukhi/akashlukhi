@@ -2,13 +2,8 @@
 
 - 🌱 I’m always learning new things
 - 👯 I’m looking to collaborate with other content creators
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashlukhi&show_icons=true&theme=radical)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashlukhi&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashlukhi&repo=convoychat" />
-</a>
 <!--
 ### Connect with me:
 
