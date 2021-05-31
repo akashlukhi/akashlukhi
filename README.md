@@ -2,7 +2,10 @@
 
 - 🌱 I’m always learning new things
 - 👯 I’m looking to collaborate with other content creators
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashlukhi&show_icons=true&theme=radical)
+
+
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashlukhi&show_icons=true&theme=dark)
 
 <!--
 ### Connect with me:
